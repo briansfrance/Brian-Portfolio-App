@@ -1,0 +1,67 @@
+{
+    "portfolioData": {
+        "Websites": [
+            {
+                "image": "/Website-images/518-Property-Pros.jpg",
+                "title": "Property Pros",
+                "link": "https://www.518propertypro.com/",
+                "description": "While working at OOMDO Property Pros became a client looking for a website for their new property management and real estate company. I helped design some of the main pages as well as coding almost the entire website."
+            },
+            {
+                "image": "/Website-images/ABC-Sports-Fitness.jpg",
+                "title": "ABC Sports & Fitness",
+                "link": "https://www.abcsportsandfitness.com/",
+                "description": "While at OOMDO ABC Sport & Fitness became a client looking to update their current website to be more up to date and a better looking website. This was my first full build website. I helped design many pages of the application and coded almost every page."
+            },
+            {
+                "image": "/Website-images/ATS-Website.jpg",
+                "title": "American Tactical Systems",
+                "link": "https://www.americantacticalsystems.com/",
+                "description": "While at OOMDO American Tactical Systems became a client looking to revamp their old website to become more modern and up to date in technologies. I helped design and built more of the original website their were some small changes that have been done since I helped code it over three years ago but almost everything is still the same."
+            },
+            {
+                "image": "/Website-images/Minis-Glen.jpg",
+                "title": "Minis At The Glen",
+                "link": "http://www.minisattheglen.com/index.html",
+                "description": "While at OOMDO the client for an annual event called Minis at the Glen wanted a website to advertise and for their event goers to have a place to register easier than in the past. I designed and coded the entire website off their specifications of being very simple and they wanted it done within a week at the time. I was able to accomplish their task and they were extremely happy."
+            },
+            {
+                "image": "/Website-images/Intrm-Innovations.jpg",
+                "title": "Intrm Innovations",
+                "link": "https://intrminnovations.com/",
+                "description": "At Advanced Information Management Intrm Innovation hired us to help build a new way of staffing application, one of the things needed was a company website. Working with the client I came up with a design they were happy with and built the company website. With budget constraints we have not yet been able to build the application out yet."
+            },
+            {
+                "image": "/Website-images/CDSF-Website.jpg",
+                "title": "Capital District Sport & Fitness",
+                "link": "https://capitaldistrictsportandfitness.com/",
+                "description": "My client Capital District Sport & Fitness came to me when starting their personal and group training business to help design and build their website. After working on designs for them they approved the design currently used and I built the entire website for them."
+            }
+        ],
+        "Applications": [
+            {
+                "image": "/Website-images/Ventur-App.jpg",
+                "title": "Ventur Real Estate",
+                "link": "https://www.myventur.com/",
+                "description": "At Advanced Infomation Management our client Ventur Real Estate came to us with an application idea for a new mobile app that combined social media feeds and real estate listings. I had the task to help design the entire application and how the user experience would work, as well as building the entire front end. Working with the client we came up with a great design that they changed colors after the fact. Myself and one other developer built the application within a six to seven month time frame."
+            }
+        ],
+        "Graphic Design": [
+            {
+                "image": "/Website-images/LE-LOGO-Final-Circle.jpg",
+                "title": "Lauren Elizabeth Salon",
+                "description": "My client Lauren Elizabeth Salon came to me with helping design her new logo. Working with the client we were able to come up with a beautiful logo for their salon."
+            },
+            {
+                "image": "/Website-images/Surgo-Companies-Businesscard-Front.jpg",
+                "title": "Surgo Companies",
+                "description": "My client Surgo Companies wanted a new logo for their construction company. The client gave me some specifications for the design and this is the approved logo."
+            },
+            {
+                "image": "/Website-images/WASH-BOSS-LOGO.jpg",
+                "title": "Wash Boss",
+                "description": "My client Wash Boss wanted a logo for their new car wash business. They had specification to combine their old logo from their other car wash Golden Arrow with a new concept. This was their approved design."
+            }
+        ]
+    }
+}
